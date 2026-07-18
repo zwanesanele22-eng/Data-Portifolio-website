@@ -1,7 +1,8 @@
 Data Portfolio Website (Built with AI & Lovable)
 
 A personal data analytics portfolio website, designed and built using AI tools as part of the BrightLearn Data Analytics Programme student exercise: "Build Your Data Portfolio Website Using AI and Lovable"
-Overview
+
+Overview:
 
 This project showcases my transition from a Quality Control / laboratory background into data analytics. The site pulls together my skills, projects, work experience, and education into a single, professional portfolio — built entirely with AI tools and no manual coding.
 
